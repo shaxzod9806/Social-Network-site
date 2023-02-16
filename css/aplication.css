@@ -1,0 +1,61 @@
+.aplication{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 560px;
+    /* border: 1px solid rgb(0, 255, 106); */
+}
+.aplication-left{
+    margin-top: 100px;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    padding-left: 135px;
+    width: 50%;
+    height: 316px;
+    float: left;
+}
+.aplication-get {
+    margin-left: 0;
+}
+.aplication-title {
+    width: 351px;
+    height: 104px;
+    margin-left: 0;
+}
+.aplication-desc{
+    width: 341px;
+    height: 78px;
+    margin-left: 0;
+}
+.appstore-button:hover{
+    cursor: pointer;
+}
+.appstore-button{
+    border: none;
+    padding: 0;
+}
+.appstore-button img{
+    width: 145px;
+    height: 52px;
+}
+.playmarket-button:hover{
+    cursor: pointer;
+}
+.playmarket-button{
+    padding: 0;
+    border: none;
+}
+.playmarket-button img{
+    width: 145px;
+    height: 52px;
+}
+.aplication-right{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.aplication-right img{
+    margin-top: 20px;
+    margin-left: 140px;
+
+    
+}

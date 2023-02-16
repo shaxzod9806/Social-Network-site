@@ -1,0 +1,135 @@
+.social-section{
+    /* padding-left: 135px; */
+    width: 100%;
+    height: 600px;
+    margin-top: 80px;
+    box-sizing: border-box;
+
+    /* border: 1px solid rebeccapurple; */
+}
+.social-section__wrapper{
+    /* border: 1px solid rebeccapurple; */
+    margin:  auto;
+    width: 1260px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.raiting{
+
+    width: 346px;
+    height: 340px;
+    /* margin-left: 135px; */
+    border-radius: 14px;
+    border: 1px solid rgba(0, 0, 0, 0.014);
+}
+.social-star__icon{
+    margin-top: 44px;
+    margin-left: 46px;
+    padding-right: 12px;
+    float: left;
+}
+.social-rating{
+    margin-top: 49px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;  
+    color: #0A093D;
+}
+.social-people__image{
+    float: left;
+    margin-left: 28px;
+    margin-top: 5px;
+}
+
+.social-members{
+    margin-top: 20px;
+    display: inline-block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D5B70;
+}
+.social-836k{
+    color: #217BF4;
+    font-weight: 590;
+}
+.rating-desc{
+    margin-left: 46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+.social-join:hover{
+    cursor: pointer;
+}
+.social-join{
+    padding-right: 7px;
+    margin-left: 46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;   
+    color: #217BF4;
+    display: inline-block;
+}
+.awards{
+    width: 346px;
+    height: 340px;
+    border: 1px solid rgba(0, 0, 0, 0.075);
+    border-radius: 14px;
+}
+.award__icon{
+    margin-left: 36px !important;
+}
+.achievment{
+    width:400px;
+    height: 340px;
+    margin-right: 40px;
+}
+.achievment-title{
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #0A093D;
+}
+.achievment-desc{
+    color: #656464ea;
+}
+.achievment-our{
+    color: #217BF4;
+    font-weight: 550;
+    font-size: 19px;
+}
+.achievment-button:hover{
+    cursor: pointer;
+}
+.achievment-button{
+    margin-top: 10px;
+    margin-left: 46px;
+    width: 192px;
+    height: 58px;
+    background: #217BF4;
+    border: none;
+    border-radius: 14px;
+    color: white;
+    padding-right: 10px;
+}
+.achievment-button img{
+    margin-left: 15px;
+}
+
+
